@@ -1,0 +1,9 @@
+﻿{
+  "name": "ChebsQuietDrakes",
+  "description": "This mod disables screeching effect on drakes so that they're quiet and less annoying.",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/jpw1991/valheim-quiet-drakes",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.11.2"
+  ]
+}
