@@ -40,6 +40,11 @@ namespace ChebsQuietDrakes
             {
                 effect.m_enabled = false;
             }
+            
+            foreach (var effect in monsterAI.m_idleSound.m_effectPrefabs)
+            {
+                effect.m_enabled = false;
+            }
         }
     }
 }
