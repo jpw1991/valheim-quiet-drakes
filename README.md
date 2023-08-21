@@ -37,6 +37,7 @@ b) Write to me on [Discord](https://discord.com/invite/EB96ASQ).
 ## Installation (manual)
 
 - Extract the contents of the `plugins` folder to your BepInEx plugins folder in the Valheim directory.
+- This is a client-side mod and has no effect on a server. Only clients that have the mod installed will have silent drakes; all other clients will experience the game normally.
 
 A correct installation looks like:
 
