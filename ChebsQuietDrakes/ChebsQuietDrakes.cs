@@ -12,7 +12,7 @@ namespace ChebsQuietDrakes
     {
         public const string PluginGuid = "com.chebgonaz.chebsquietdrakes";
         public const string PluginName = "ChebsQuietDrakes";
-        public const string PluginVersion = "1.1.0";
+        public const string PluginVersion = "1.2.0";
 
         private void Awake()
         {
